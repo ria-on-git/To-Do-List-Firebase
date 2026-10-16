@@ -113,20 +113,27 @@ Once the app is running:
 
 ## What It Looks Like
 
-### Main Screen
-![Main Screen](screenshots/all-tasks.png)
+### Task Management
 
-### Adding a Task
-![Add Task](screenshots/add-task.png)
+<p align="center">
+  <img src="screenshots/main-screen.png" width="250">
+  <img src="screenshots/add-task.png" width="250">
+</p>
 
-### Editing a Task
-![Edit Task](screenshots/edit-task.png)
+### Editing and Completing Tasks
 
-### Swipe to Delete
-![Delete Task](screenshots/delete-task.png)
+<p align="center">
+  <img src="screenshots/edit-task.png" width="250">
+  <img src="screenshots/completed-tasks.png" width="250">
+</p>
 
-### Firebase Database
-![Firebase Database](screenshots/firebase-database.png)
+### Deleting Tasks and Firebase Database
+
+<p align="center">
+  <img src="screenshots/delete-task.png" width="250">
+  <img src="screenshots/firebase-database.png" width="400">
+</p>
+
 
 ## What I Learned
 
