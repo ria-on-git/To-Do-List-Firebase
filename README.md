@@ -116,7 +116,7 @@ Once the app is running:
 ### Task Management
 
 <p align="center">
-  <img src="screenshots/main-screen.png" width="250">
+  <img src="screenshots/all-tasks.png" width="250">
   <img src="screenshots/add-task.png" width="250">
 </p>
 
